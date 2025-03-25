@@ -30,7 +30,7 @@
 ![image](https://github.com/user-attachments/assets/9420e447-de60-479e-96d4-7a26cca06a10)
 ![image](https://github.com/user-attachments/assets/f457f033-ca6c-4eb2-9930-5a5d8149ce66)
 ![image](https://github.com/user-attachments/assets/403a1a39-94e8-4be8-bcf1-ba7d19be2130)
-Các bảng sau lằm tương tự:
+Các bảng sau làm tương tự:
 ### 2.Bảng Giáo viên chủ nhiệm
 ![image](https://github.com/user-attachments/assets/7f68c13b-3864-4678-890c-afefbe8a0c81)
 Thiết lập FK cho bảng GVCN:
@@ -42,22 +42,23 @@ Thiết lập FK cho bảng GVCN:
 ![image](https://github.com/user-attachments/assets/00a4b1d8-dc94-41ac-8ba2-ce8e50e2d04c)
 ### 4.Bảng Môn Học
 ![image](https://github.com/user-attachments/assets/82517297-6502-4a53-b427-a3d547ed8360)
-Thiết lập CK cho bảng MonHoc
+Thiết lập CK cho bảng MonHoc:
+
 ![image](https://github.com/user-attachments/assets/549f6c64-8a33-4b28-9f9b-7f0e0684c478)
 ### 5.Bảng Lớp Sinh Viên
 ![image](https://github.com/user-attachments/assets/eae9fc25-4b93-41be-ae0c-333cedc801e2)
-Thiết lập FK cho bảng LopSV
+Thiết lập FK cho bảng LopSV:
 
 ![image](https://github.com/user-attachments/assets/95585812-48eb-41c2-a85a-434293c010c4)
 ![image](https://github.com/user-attachments/assets/1743c602-7495-4c0d-8928-71bb7bd4e8a2)
 ### 6.Bảng Lớp Học Phần
 ![image](https://github.com/user-attachments/assets/585a4dc1-6305-4bb2-86d3-33cfd9d68e1e)
-FK của bảng lopHP
+FK của bảng lopHP:
 
 ![image](https://github.com/user-attachments/assets/86255fa5-cd20-42fd-aeed-fe7becee9435)
 ![image](https://github.com/user-attachments/assets/90b85a39-1221-4571-8706-84ca85266ea7)
 
-Thiết lập CK cho bảng HocPhan
+Thiết lập CK cho bảng HocPhan:
 
 ![image](https://github.com/user-attachments/assets/db4d06d6-52f4-4f3e-93f0-4668e4f98be9)
 ### 7.Bảng Khoa
