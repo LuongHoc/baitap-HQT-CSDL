@@ -54,7 +54,8 @@ Bảng DKMH
 Bảng Diem
 ![image](https://github.com/user-attachments/assets/8148ca5d-2dc7-47f3-83d7-3581b4a41ec4)
 ## 4.lệnh truy vấn để tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.
-![image](https://github.com/user-attachments/assets/02719027-a906-4236-bf44-3ef257c354ba)
+![image](https://github.com/user-attachments/assets/0527e5c1-761c-4e65-a166-64c9a7a87b03)
+
 
 
 
